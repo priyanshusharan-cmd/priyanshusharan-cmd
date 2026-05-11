@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/🚖_Ridify-Real_Time_Ride_Sharing_Platform-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/priyanshusharan-cmd/operating-system">
   <img src="https://img.shields.io/badge/🖥️_Operating_System-OS_Lab_Programs-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
