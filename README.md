@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=C+%7C+Java+%7C+Flutter+%7C+Node.js;Building+Real+World+Projects;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 
-<br>
+<br><br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
@@ -54,14 +54,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=priyanshusharan-cmd&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 <h2 align="center">🚀 Featured Projects 🚀</h2>
@@ -69,21 +61,11 @@
 <div align="center">
 
 <a href="https://github.com/priyanshusharan-cmd/ridify">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=ridify&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=ridify&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/priyanshusharan-cmd/operating-system">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=operating-system&theme=tokyonight&hide_border=true"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/priyanshusharan-cmd/algorithm-design">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=algorithm-design&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/priyanshusharan-cmd/java">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=java&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=operating-system&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -127,7 +109,10 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/priyanshusharan-cmd/priyanshusharan-cmd/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshusharan-cmd/priyanshusharan-cmd/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/priyanshusharan-cmd/priyanshusharan-cmd/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
