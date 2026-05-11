@@ -48,9 +48,9 @@
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=priyanshusharan-cmd&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshusharan-cmd&theme=tokyonight"/>
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharan-cmd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshusharan-cmd&theme=tokyonight"/>
 
 </div>
 
@@ -60,13 +60,9 @@
 
 <div align="center">
 
-<a href="https://github.com/priyanshusharan-cmd/ridify">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=ridify&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=ridify&theme=tokyonight)](https://github.com/priyanshusharan-cmd/ridify)
 
-<a href="https://github.com/priyanshusharan-cmd/operating-system">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=operating-system&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=operating-system&theme=tokyonight)](https://github.com/priyanshusharan-cmd/operating-system)
 
 </div>
 
