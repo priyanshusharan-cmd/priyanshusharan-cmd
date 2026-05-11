@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Priyanshu%20Sharan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20CSE%20Student%20|%20Tech%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Priyanshu%20Sharan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20CSE%20Student%20|%20Tech%20Enthusiast&descAlignY=58&descSize=20"/>
 
-# 👋 Hey there, I'm Priyanshu Sharan
+# 👋 Hey There, I'm Priyanshu Sharan
 
 ### 💻 Computer Science Student at BMSCE  
 ### 🚀 Full Stack Developer | Flutter Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=C+%7C+Java+%7C+Flutter+%7C+Node.js;Building+Real+World+Projects;Always+Learning+New+Things;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=C+%7C+Java+%7C+Flutter+%7C+Node.js;Building+Real+World+Projects;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 
-<br><br>
+<br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,dart,flutter,nodejs,express,mongodb,mysql,firebase,react,html,css,js,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,dart,flutter,nodejs,express,mongodb,mysql,firebase,react,html,css,js,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -48,9 +48,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshusharan-cmd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshusharan-cmd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharan-cmd&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharan-cmd&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=priyanshusharan-cmd&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=priyanshusharan-cmd&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -69,19 +69,21 @@
 <div align="center">
 
 <a href="https://github.com/priyanshusharan-cmd/ridify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=ridify&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=ridify&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/priyanshusharan-cmd/operating-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=operating-system&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=operating-system&theme=tokyonight&hide_border=true"/>
 </a>
 
+<br><br>
+
 <a href="https://github.com/priyanshusharan-cmd/algorithm-design">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=algorithm-design&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=algorithm-design&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/priyanshusharan-cmd/java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=java&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=java&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -125,7 +127,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/priyanshusharan-cmd/priyanshusharan-cmd/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/priyanshusharan-cmd/priyanshusharan-cmd/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -135,7 +137,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=priyanshusharan-cmd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=priyanshusharan-cmd&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
