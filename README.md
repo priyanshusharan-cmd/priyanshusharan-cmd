@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Priyanshu%20Sharan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20CSE%20Student%20|%20Tech%20Enthusiast&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Priyanshu%20Sharan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20CSE%20Student%20|%20Tech%20Enthusiast&descAlignY=58&descSize=20"/>
 
 # 👋 Hey There, I'm Priyanshu Sharan
 
@@ -17,7 +17,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656960-1d5d7b52-7f8b-4f0b-bc9d-1d16f3c3f0c1.gif" width="100%">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216656960-1d5d7b52-7f8b-4f0b-bc9d-1d16f3c3f0c1.gif">
 
 <h2 align="center">⚡ About Me ⚡</h2>
 
@@ -48,9 +48,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshusharan-cmd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=priyanshusharan-cmd&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharan-cmd&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharan-cmd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -61,11 +61,11 @@
 <div align="center">
 
 <a href="https://github.com/priyanshusharan-cmd/ridify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=ridify&theme=tokyonight&hide_border=true"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=ridify&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/priyanshusharan-cmd/operating-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=operating-system&theme=tokyonight&hide_border=true"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=operating-system&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
 
 </div>
@@ -134,4 +134,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=180&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer"/>
