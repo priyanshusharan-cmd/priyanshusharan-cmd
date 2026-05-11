@@ -60,9 +60,15 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=ridify&theme=tokyonight)](https://github.com/priyanshusharan-cmd/ridify)
+<a href="https://github.com/priyanshusharan-cmd/ridify">
+  <img src="https://img.shields.io/badge/🚖_Ridify-Real_Time_Ride_Sharing_Platform-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanshusharan-cmd&repo=operating-system&theme=tokyonight)](https://github.com/priyanshusharan-cmd/operating-system)
+<br><br>
+
+<a href="https://github.com/priyanshusharan-cmd/operating-system">
+  <img src="https://img.shields.io/badge/🖥️_Operating_System-OS_Lab_Programs-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
