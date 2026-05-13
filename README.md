@@ -48,9 +48,9 @@
 
 <div align="center">
 
-<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshusharan-cmd&theme=tokyonight"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshusharan-cmd&theme=tokyonight"/>
 
-<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshusharan-cmd&theme=tokyonight"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshusharan-cmd&theme=tokyonight"/>
 
 </div>
 
