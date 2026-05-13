@@ -5,7 +5,7 @@
 # 👋 Hey There, I'm Priyanshu Sharan
 
 ### 💻 Computer Science Student at BMSCE  
-### 🚀 Full Stack Developer | Flutter Enthusiast | Problem Solver
+### 🚀 Full Stack Developer | Coding Enthusiast | Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=C+%7C+Java+%7C+Flutter+%7C+Node.js;Building+Real+World+Projects;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 
@@ -25,7 +25,7 @@
 
 🎓 CSE Student at **BMS College of Engineering, Bengaluru**  
 💡 Passionate about **Software Development & Problem Solving**  
-📱 Building projects using **Flutter, Node.js & MongoDB**  
+📱 Building projects using **Java, Node.js, Flutter, MongoDB**  
 🧠 Learning **Data Structures, Algorithms & System Design**  
 ⚡ Love creating clean UI and efficient backend systems  
 🚀 Exploring Open Source and Real-World Projects  
@@ -48,9 +48,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshusharan-cmd&theme=tokyonight"/>
+<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshusharan-cmd&theme=tokyonight"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshusharan-cmd&theme=tokyonight"/>
+<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshusharan-cmd&theme=tokyonight"/>
 
 </div>
 
