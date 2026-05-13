@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=C+%7C+Java+%7C+Flutter+%7C+Node.js;Building+Real+World+Projects;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 
-<br><br>
+<br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
