@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-label="About: Priyanshu Sharan, third-year CSE at BMSCE Bangalore. Focus: mobile apps, AI-agent security, physics simulations. Won Best UI/UX at Hacktoberfest 2026 with Team Hopsync. Building Homeport, a self-hosted personal cloud.">
+  <defs>
+    <linearGradient id="tb" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#101935"/><stop offset="1" stop-color="#140F30"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5EEAD4" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#5EEAD4" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1200" height="480" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .ln { opacity:0; animation: ln .35s ease-out forwards; }
+    @keyframes ln { from { opacity:0; transform:translateX(-8px) } to { opacity:1; transform:none } }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity:0 } }
+    .scan { animation: scan 7s linear infinite; }
+    @keyframes scan { from { transform:translateY(-120px) } to { transform:translateY(480px) } }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="480" fill="#060A18"/>
+    <rect width="1200" height="48" fill="url(#tb)"/>
+    <line x1="0" y1="48" x2="1200" y2="48" stroke="#1B2650"/>
+    <circle cx="30" cy="24" r="7" fill="#FF5F57"/><circle cx="54" cy="24" r="7" fill="#FEBC2E"/><circle cx="78" cy="24" r="7" fill="#28C840"/>
+    <text x="600" y="29" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#8A97C2">01 — about  ·  zsh  ·  120×30</text>
+    <rect class="scan" x="0" y="0" width="1200" height="120" fill="url(#scan)"/>
+    <g font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="17">
+            <g class="ln" style="animation-delay:0.30s"><text x="40" y="104"><tspan fill="#5EEAD4">priyanshu</tspan><tspan fill="#4A5687">@</tspan><tspan fill="#A78BFA">bmsce</tspan><tspan fill="#4A5687"> ~ </tspan><tspan fill="#F5B841">$</tspan><tspan fill="#EAF0FF"> whoami</tspan></text></g>
+      <g class="ln" style="animation-delay:0.75s"><text x="40" y="132"><tspan fill="#4A5687">↳ </tspan><tspan fill="#EAF0FF">Priyanshu Sharan</tspan><tspan fill="#8A97C2">  ·  3rd-year CSE  ·  BMSCE, Bangalore</tspan></text></g>
+      <g class="ln" style="animation-delay:1.10s"><text x="40" y="172"><tspan fill="#5EEAD4">priyanshu</tspan><tspan fill="#4A5687">@</tspan><tspan fill="#A78BFA">bmsce</tspan><tspan fill="#4A5687"> ~ </tspan><tspan fill="#F5B841">$</tspan><tspan fill="#EAF0FF"> cat focus.txt</tspan></text></g>
+      <g class="ln" style="animation-delay:1.55s"><text x="40" y="200"><tspan fill="#4A5687">↳ </tspan><tspan fill="#5EEAD4">mobile apps</tspan><tspan fill="#4A5687">  ·  </tspan><tspan fill="#A78BFA">AI-agent security</tspan><tspan fill="#4A5687">  ·  </tspan><tspan fill="#F5B841">physics simulations</tspan></text></g>
+      <g class="ln" style="animation-delay:1.90s"><text x="40" y="240"><tspan fill="#5EEAD4">priyanshu</tspan><tspan fill="#4A5687">@</tspan><tspan fill="#A78BFA">bmsce</tspan><tspan fill="#4A5687"> ~ </tspan><tspan fill="#F5B841">$</tspan><tspan fill="#EAF0FF"> cat wins.log</tspan></text></g>
+      <g class="ln" style="animation-delay:2.35s"><text x="40" y="268"><tspan fill="#4A5687">↳ </tspan><tspan fill="#F5B841">★ </tspan><tspan fill="#EAF0FF">Best UI/UX</tspan><tspan fill="#8A97C2">  —  Hacktoberfest 2026, with Team Hopsync</tspan></text></g>
+      <g class="ln" style="animation-delay:2.70s"><text x="40" y="308"><tspan fill="#5EEAD4">priyanshu</tspan><tspan fill="#4A5687">@</tspan><tspan fill="#A78BFA">bmsce</tspan><tspan fill="#4A5687"> ~ </tspan><tspan fill="#F5B841">$</tspan><tspan fill="#EAF0FF"> ls ./building</tspan></text></g>
+      <g class="ln" style="animation-delay:3.15s"><text x="40" y="336"><tspan fill="#4A5687">↳ </tspan><tspan fill="#F472B6">homeport/</tspan><tspan fill="#8A97C2">  self-hosted P2P personal cloud on a Raspberry Pi 4</tspan></text></g>
+      <g class="ln" style="animation-delay:3.50s"><text x="40" y="376"><tspan fill="#5EEAD4">priyanshu</tspan><tspan fill="#4A5687">@</tspan><tspan fill="#A78BFA">bmsce</tspan><tspan fill="#4A5687"> ~ </tspan><tspan fill="#F5B841">$</tspan><tspan fill="#EAF0FF"> echo $PHILOSOPHY</tspan></text></g>
+      <g class="ln" style="animation-delay:3.95s"><text x="40" y="404"><tspan fill="#4A5687">↳ </tspan><tspan fill="#EAF0FF">learn by shipping. </tspan><tspan fill="#8A97C2">one real project beats ten tutorials.</tspan></text></g>
+      <g class="ln" style="animation-delay:4.30s">
+        <text x="40" y="444"><tspan fill="#5EEAD4">priyanshu</tspan><tspan fill="#4A5687">@</tspan><tspan fill="#A78BFA">bmsce</tspan><tspan fill="#4A5687"> ~ </tspan><tspan fill="#F5B841">$</tspan></text>
+        <rect class="cur" x="226" y="429" width="10" height="19" fill="#5EEAD4"/>
+      </g>
+    </g>
+    <rect x="0.5" y="0.5" width="1199" height="479" rx="18" fill="none" stroke="#1B2650"/>
+  </g>
+</svg>

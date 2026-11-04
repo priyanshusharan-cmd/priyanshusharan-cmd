@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Thanks for stopping by.">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EEAD4"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="1" stop-color="#F5B841"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .wv { animation: wv 8s linear infinite; }
+    @keyframes wv { to { transform: translateX(-400px) } }
+    .fade { animation: fd 4s ease-in-out infinite; }
+    @keyframes fd { 50% { opacity:.45 } }
+  </style>
+  <g opacity="0.55"><circle cx="542.9" cy="84.0" r="1.0" fill="#EAF0FF" opacity="0.54"/>
+    <circle cx="227.9" cy="120.6" r="1.0" fill="#EAF0FF" opacity="0.66"/>
+    <circle cx="112.9" cy="45.5" r="0.6" fill="#EAF0FF" opacity="0.60"/>
+    <circle cx="761.3" cy="89.3" r="1.0" fill="#EAF0FF" opacity="0.88"/>
+    <circle cx="738.7" cy="23.6" r="0.6" fill="#EAF0FF" opacity="0.79" class="tw" style="animation-delay:-0.21s;animation-duration:6.52s"/>
+    <circle cx="719.5" cy="116.7" r="1.0" fill="#EAF0FF" opacity="0.54"/>
+    <circle cx="622.9" cy="96.0" r="1.0" fill="#EAF0FF" opacity="0.25" class="tw" style="animation-delay:-3.93s;animation-duration:4.63s"/>
+    <circle cx="661.5" cy="139.8" r="0.6" fill="#EAF0FF" opacity="0.71" class="tw" style="animation-delay:-1.38s;animation-duration:4.16s"/>
+    <circle cx="84.3" cy="114.9" r="1.0" fill="#EAF0FF" opacity="0.32" class="tw" style="animation-delay:-0.40s;animation-duration:3.07s"/>
+    <circle cx="821.9" cy="32.0" r="0.6" fill="#EAF0FF" opacity="0.56"/>
+    <circle cx="476.9" cy="11.0" r="1.6" fill="#EAF0FF" opacity="0.38"/>
+    <circle cx="404.3" cy="46.7" r="0.6" fill="#EAF0FF" opacity="0.88"/>
+    <circle cx="141.6" cy="37.0" r="0.6" fill="#EAF0FF" opacity="0.26"/>
+    <circle cx="584.2" cy="102.3" r="0.8" fill="#EAF0FF" opacity="0.54" class="tw" style="animation-delay:-4.39s;animation-duration:3.52s"/>
+    <circle cx="772.5" cy="17.5" r="1.0" fill="#EAF0FF" opacity="0.89" class="tw" style="animation-delay:-5.19s;animation-duration:6.90s"/>
+    <circle cx="711.3" cy="149.7" r="0.6" fill="#EAF0FF" opacity="0.39"/>
+    <circle cx="1025.3" cy="96.3" r="0.6" fill="#EAF0FF" opacity="0.28" class="tw" style="animation-delay:-2.65s;animation-duration:3.04s"/>
+    <circle cx="732.4" cy="124.5" r="1.0" fill="#EAF0FF" opacity="0.30" class="tw" style="animation-delay:-3.50s;animation-duration:3.97s"/>
+    <circle cx="721.5" cy="55.8" r="1.0" fill="#EAF0FF" opacity="0.33"/>
+    <circle cx="998.8" cy="20.4" r="1.0" fill="#EAF0FF" opacity="0.37" class="tw" style="animation-delay:-5.45s;animation-duration:6.27s"/>
+    <circle cx="299.4" cy="28.5" r="1.6" fill="#EAF0FF" opacity="0.66"/>
+    <circle cx="824.4" cy="58.2" r="1.0" fill="#EAF0FF" opacity="0.64"/>
+    <circle cx="124.6" cy="5.8" r="1.0" fill="#EAF0FF" opacity="0.40"/>
+    <circle cx="308.4" cy="123.6" r="1.3" fill="#EAF0FF" opacity="0.57"/>
+    <circle cx="1115.1" cy="146.6" r="0.8" fill="#EAF0FF" opacity="0.40"/>
+    <circle cx="1022.9" cy="92.1" r="1.0" fill="#EAF0FF" opacity="0.39"/>
+    <circle cx="898.8" cy="10.4" r="1.0" fill="#EAF0FF" opacity="0.54" class="tw" style="animation-delay:-1.06s;animation-duration:4.48s"/>
+    <circle cx="686.6" cy="19.7" r="1.0" fill="#EAF0FF" opacity="0.34"/>
+    <circle cx="397.2" cy="109.9" r="1.3" fill="#EAF0FF" opacity="0.63" class="tw" style="animation-delay:-0.21s;animation-duration:3.07s"/>
+    <circle cx="1092.3" cy="105.1" r="0.6" fill="#EAF0FF" opacity="0.26"/></g>
+  <g class="wv">
+    <path d="M0 60 q 100 -30 200 0 t 200 0 M400 60 q 100 -30 200 0 t 200 0 M800 60 q 100 -30 200 0 t 200 0 M1200 60 q 100 -30 200 0 t 200 0 M1600 60 q 100 -30 200 0 t 200 0" fill="none" stroke="url(#w)" stroke-width="2" opacity="0.7"/>
+    <path d="M0 72 q 100 24 200 0 t 200 0 M400 72 q 100 24 200 0 t 200 0 M800 72 q 100 24 200 0 t 200 0 M1200 72 q 100 24 200 0 t 200 0 M1600 72 q 100 24 200 0 t 200 0" fill="none" stroke="url(#w)" stroke-width="1" opacity="0.35"/>
+  </g>
+  <text class="fade" x="600" y="122" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="14" fill="#8A97C2" letter-spacing="3">THANKS FOR STOPPING BY  ·  KEEP SHIPPING</text>
+</svg>

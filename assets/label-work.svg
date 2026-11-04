@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="Selected work">
+  <defs>
+    <linearGradient id="l" gradientUnits="userSpaceOnUse" x1="347.5" y1="0" x2="1200" y2="0">
+      <stop offset="0" stop-color="#5EEAD4" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .p { animation: p 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes p { 0%,100% { opacity:1; transform:scale(1) } 50% { opacity:.4; transform:scale(.6) } }
+    .sweep { stroke-dasharray: 60 900; animation: sw 4s linear infinite; }
+    @keyframes sw { from { stroke-dashoffset: 0 } to { stroke-dashoffset: -960 } }
+  </style>
+  <circle class="p" cx="10" cy="32" r="5" fill="#5EEAD4"/>
+  <text x="30" y="39" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#5EEAD4" letter-spacing="2">02</text>
+  <text x="70" y="40" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#8FA0D0" letter-spacing="4">SELECTED WORK</text>
+  <line x1="347.5" y1="32" x2="1200" y2="32" stroke="url(#l)" stroke-width="1.5"/>
+  <line class="sweep" x1="347.5" y1="32" x2="1200" y2="32" stroke="#5EEAD4" stroke-width="2"/>
+</svg>

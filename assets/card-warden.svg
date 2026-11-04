@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 300" width="580" height="300" role="img" aria-label="Warden: AI-agent firewall. Agents obey what they read. Warden traces where every value came from and blocks orders that weren't yours.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1228"/><stop offset="1" stop-color="#060A18"/>
+    </linearGradient>
+    <radialGradient id="h" cx="0.92" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.22"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="gl" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="c"><rect width="580" height="300" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .dot { animation: d 1.8s ease-in-out infinite; }
+    @keyframes d { 50% { opacity:.25 } }
+    .edge { animation: e 5s ease-in-out infinite; }
+    @keyframes e { 0%,100% { transform:translateX(-580px) } 50% { transform:translateX(580px) } }
+    .beam { animation: beam 2.6s ease-in-out infinite; } @keyframes beam { 0%,100% { transform:translateY(0) } 50% { transform:translateY(130px) } } .tick { stroke-dasharray: 60; animation: tk 2.6s ease-in-out infinite; } @keyframes tk { 0%,40% { stroke-dashoffset:60 } 60%,100% { stroke-dashoffset:0 } }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="580" height="300" fill="url(#g)"/>
+    <rect width="580" height="300" fill="url(#h)"/>
+    
+    <g transform="translate(470 150)" opacity="0.9">
+      <path d="M0 -62 L50 -44 L50 4 C50 38 26 58 0 70 C-26 58 -50 38 -50 4 L-50 -44 Z" fill="#A78BFA" fill-opacity="0.06" stroke="#A78BFA" stroke-opacity="0.45" stroke-width="1.5"/>
+      <path d="M-18 4 L-5 17 L20 -12" fill="none" stroke="#A78BFA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl)" class="tick"/>
+      <rect class="beam" x="-60" y="-66" width="120" height="3" fill="#A78BFA" opacity="0.7"/>
+    </g>
+
+    <rect class="edge" x="0" y="0" width="580" height="2" fill="url(#edge)"/>
+    <text x="32" y="52" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#A78BFA" letter-spacing="2">AI-AGENT FIREWALL</text>
+    <text x="30" y="100" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#EAF0FF" letter-spacing="-0.5">Warden</text>
+    <text x="32" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="16" fill="#8A97C2">Agents obey what they read. Warden</text><text x="32" y="175" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="16" fill="#8A97C2">traces where every value came from</text><text x="32" y="200" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="16" fill="#8A97C2">and blocks orders that weren't yours.</text>
+    <rect x="32.0" y="238" width="69.4" height="26" rx="13" fill="#A78BFA" fill-opacity="0.09" stroke="#A78BFA" stroke-opacity="0.35"/><text x="66.7" y="255.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#A78BFA">Python</text><rect x="109.4" y="238" width="45.7" height="26" rx="13" fill="#A78BFA" fill-opacity="0.09" stroke="#A78BFA" stroke-opacity="0.35"/><text x="132.2" y="255.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#A78BFA">MCP</text><rect x="163.1" y="238" width="101.0" height="26" rx="13" fill="#A78BFA" fill-opacity="0.09" stroke="#A78BFA" stroke-opacity="0.35"/><text x="213.6" y="255.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#A78BFA">provenance</text><rect x="272.1" y="238" width="93.1" height="26" rx="13" fill="#A78BFA" fill-opacity="0.09" stroke="#A78BFA" stroke-opacity="0.35"/><text x="318.7" y="255.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#A78BFA">zero deps</text>
+    <g transform="translate(448.4 32)">
+      <rect width="99.6" height="28" rx="14" fill="#060A18" stroke="#A78BFA" stroke-opacity="0.5"/>
+      <circle class="dot" cx="16" cy="14" r="4" fill="#A78BFA"/>
+      <text x="28" y="19" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#A78BFA" letter-spacing="1.5">SECURITY</text>
+    </g>
+    <rect x="0.5" y="0.5" width="579" height="299" rx="18" fill="none" stroke="#1B2650"/>
+  </g>
+</svg>
